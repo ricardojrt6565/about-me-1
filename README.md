@@ -1,8 +1,8 @@
-#Learn About Me
+# Learn About Me
 
 **_Jenny Feng_**
 _hstat email: jennyf0792@hstat.org_
-High School of Telecommincations Arts and Technology
+**High School of Telecommincations Arts and Technology**
 
 ---
 
@@ -16,3 +16,14 @@ High School of Telecommincations Arts and Technology
 6. Spanish 3  
 7. LunchTime!!!  
 8. Regents Physics 1  
+
+---
+### Here is a list of what I like to do in my free time:
+* read
+* dance/sing/practice my piano skills
+* write
+* eat STRAWBERRY ICECREAM <3
+  * chocolate
+  * vanilla
+  * green tea
+  * mint
