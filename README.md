@@ -27,3 +27,4 @@ _hstat email: jennyf0792@hstat.org_
   * vanilla
   * green tea
   * mint
+  * blueberry
